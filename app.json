@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "ahUser",
-    "slug": "ahUser",
+    "slug": "ahuser",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
@@ -25,6 +25,12 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7205723c-edd2-46cb-80e4-98f34754fbaf"
+      }
+    },
+    "owner": "andihermantyo"
   }
 }
